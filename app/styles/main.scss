@@ -9,7 +9,7 @@ body {
 }
 
 #topHeader {
-  background-color: #303F9F;
+  background-color: #0277BD;
   color: white;
   h1 {
     margin: 0;
@@ -18,7 +18,7 @@ body {
 }
 
 #middleHeader {
-  background-color: #3F51B5;
+  background-color: #039BE5;
   color: white;
   h2, h3 {
     margin: 0;
@@ -34,14 +34,14 @@ body {
 .chartHeader {
   .btn {
     border-radius: 0;
-    background-color: #E91E63;
+    background-color: #EF6C00;
     color: white;
     border:none;
     margin-bottom: 10px;
   }
   .btn:hover {
     border-radius: 0;
-    background-color: #F06292;
+    background-color: #E65100;
     color: white;
     border: none;
   }
